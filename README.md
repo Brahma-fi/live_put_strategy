@@ -23,7 +23,7 @@ You can check the docker file how the lambda image is constructed [here](https:/
 
 ## Community
 
-If you have any suggestions for the repor or bugs to report please reach out to us on our [discord]()
+If you have any suggestions for the repor or bugs to report please reach out to us on our [discord](https://discord.com/invite/ndVKhgE7wf)
 
 
 
