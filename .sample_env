@@ -1,0 +1,4 @@
+export SM_PRIVATE_KEY='private key of strategy manager account'
+export ETHERSCAN_TOKEN='ETHERSCAN_TOKEN'
+export WEB3_INFURA_PROJECT_ID='project id of infura'
+ 

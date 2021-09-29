@@ -1,0 +1,4 @@
+web3==5.23.1
+numpy==1.18.5
+eth-brownie==1.16.3
+python-dotenv==0.16.0
